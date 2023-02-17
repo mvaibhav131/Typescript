@@ -5,12 +5,12 @@ import { Todos } from './component/Todos';
 
 function App() {
   const [count, setCount] = useState(0);
-  const age:number=6;
+  const heading:string="Learn Typescripts";
 
   return (
     <div className="App">
       <div>
-        <h3>age is : {age}</h3>
+        <h3>Heading  : {heading} </h3>
         <Todos/>
        </div>
     </div>
