@@ -12,9 +12,9 @@ function App() {
       <div>
         <h3>Heading  : {heading} </h3>
         <Todos/>
+     
        </div>
     </div>
   )
 }
-
 export default App
