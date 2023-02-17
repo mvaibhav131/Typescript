@@ -5,7 +5,7 @@ var userArray = [{
         "id": 1,
         "name": "Barri Jephcote",
         "age": 54,
-        "salary": 0911
+        "salary": 911
     }, {
         "id": 2,
         "name": "Brittani Deetlof",
