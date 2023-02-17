@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
      Hello..
-     <Counter/>
+     <Counter init={0}/>
     </div>
   );
 }
