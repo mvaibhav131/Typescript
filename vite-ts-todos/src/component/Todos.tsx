@@ -11,7 +11,7 @@ export const Todos = () => {
   const [todos, setTodos] = useState<Todo[]>([]);
   return (
     <div>
-      <div>Hello Welcome to the Todos</div>
+      <div>Hello Welcome to the Typescript-Todos</div>
 
       <input
         value={text}
