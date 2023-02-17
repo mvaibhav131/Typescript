@@ -16,7 +16,7 @@
    "id": 1,
    "name": "Barri Jephcote",
    "age": 54,
-   "salary": 911
+   "salary": 9111
  }, {
    "id": 2,
    "name": "Brittani Deetlof",
@@ -26,12 +26,12 @@
    "id": 3,
    "name": "Reidar Willis",
    "age": 69,
-   "salary": 6
+   "salary": 6000
  }, {
    "id": 4,
    "name": "Raf Shurrock",
    "age": 99,
-   "salary": 52
+   "salary": 5203
  }, {
    "id": 5,
    "name": "Armand Harrap",
