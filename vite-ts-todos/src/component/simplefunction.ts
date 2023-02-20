@@ -8,7 +8,7 @@
  }
 
  function sort(arr:User[],y:keyof User){
-   return arr.length
+   return arr;
  }
 
  const userArray:User[]=
